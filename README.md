@@ -8,6 +8,8 @@ I use [Pathogen](https://github.com/tpope/vim-pathogen) to manage my plugins.
  * [NERD Tree](https://github.com/scrooloose/nerdtree)
  * [vim-airline](https://github.com/vim-airline/vim-airline)
  * [vim-fugitive](https://github.com/tpope/vim-fugitive)
+ * [vim-colorschemes](https://github.com/flazz/vim-colorschemes)
+ * [neocomplete](https://github.com/shougo/neocomplete.vim)
  
 ### Adding a plugin
 

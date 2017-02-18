@@ -9,6 +9,8 @@ autocmd vimenter * NERDTree
 "support more colors"
 set t_Co=256
 
+colorscheme miko
+
 "vim-airline stuff"
 set laststatus=2
 let g:airline_theme='murmur'

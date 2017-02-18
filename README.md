@@ -38,5 +38,5 @@ $ git rm -f path/to/submodule
 You are welcome to clone this repository. You can use the following command to clone all plugins together.
 
 ```
-$ git clone --recursive https://github.com/s-ravichandran/vim.git
+$ git clone --recursive https://github.com/s-ravichandran/.vim.git
 ```

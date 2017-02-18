@@ -7,6 +7,7 @@ I use [Pathogen](https://github.com/tpope/vim-pathogen) to manage my plugins.
  * [delimitMate](https://github.com/Raimondi/delimitMate)
  * [NERD Tree](https://github.com/scrooloose/nerdtree)
  * [vim-airline](https://github.com/vim-airline/vim-airline)
+ * [vim-fugitive](https://github.com/tpope/vim-fugitive)
  
 ### Adding a plugin
 

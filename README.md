@@ -3,6 +3,7 @@
 ### Plugin List
 
  * [Pathogen](https://github.com/tpope/vim-pathogen)
+ * [delimitMate](https://github.com/Raimondi/delimitMate)
  * [NERD Tree](https://github.com/scrooloose/nerdtree)
  
 ### Adding a plugin

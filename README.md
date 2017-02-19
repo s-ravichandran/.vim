@@ -10,6 +10,7 @@ I use [Pathogen](https://github.com/tpope/vim-pathogen) to manage my plugins.
  * [vim-fugitive](https://github.com/tpope/vim-fugitive)
  * [vim-colorschemes](https://github.com/flazz/vim-colorschemes)
  * [neocomplete](https://github.com/shougo/neocomplete.vim)
+ * [Syntastic](https://github.com/vim-syntastic/syntastic)
  
 ### Adding a plugin
 

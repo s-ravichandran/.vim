@@ -10,7 +10,7 @@ filetype plugin indent on
 set t_Co=256
 
 "set color"
-colorscheme mopkai
+colorscheme ron
 
 "set linenumber on"
 set number

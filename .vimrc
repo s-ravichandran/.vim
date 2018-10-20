@@ -4,7 +4,7 @@ syntax on
 filetype plugin indent on
 
 "NERD Tree auto start"
-"autocmd vimenter * NERDTree"
+autocmd vimenter * NERDTree
 
 "support more colors"
 set t_Co=256
@@ -14,7 +14,6 @@ colorscheme ron
 
 "set linenumber on"
 set number
-
 
 "vim-airline stuff"
 set laststatus=2

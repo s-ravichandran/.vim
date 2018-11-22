@@ -1,9 +1,9 @@
 "Pathogen setup"
 execute pathogen#infect()
 syntax on
-colorscheme Benokai
 filetype plugin indent on
 
+"set smartindent"
 "NERD Tree auto start"
 autocmd vimenter * NERDTree
 
@@ -25,10 +25,13 @@ endfunction
 set t_Co=256
 
 "set color"
-"colorscheme candy"
+colorscheme Benokai
 
 "set linenumber on"
 set number
+
+"set smartindent on"
+set smartindent
 
 "vim-airline stuff"
 set laststatus=2

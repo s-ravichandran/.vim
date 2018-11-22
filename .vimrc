@@ -5,8 +5,10 @@ filetype plugin indent on
 
 "set smartindent"
 "NERD Tree auto start"
-autocmd vimenter * NERDTree
-
+autocmd VimEnter * NERDTree
+"Move cursir to file tab on opening"
+autocmd VimEnter * wincmd p
+"Close nerdtree if it is the last tab"
 autocmd WinEnter * call s:CloseIfOnlyNerdTreeLeft()
 
 " Close all open buffers on entering a window if the only

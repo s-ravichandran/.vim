@@ -18,7 +18,7 @@ To add a plugin, I create a git submodule inside this repository. This makes it 
 ```
 $ cd ~/.vim
 $ git submodule init
-$ git submodule add https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
+$ git submodule add https://github.com/scrooloose/nerdtree.git bundle/nerdtree
 ```
 
 ### Update a plugin

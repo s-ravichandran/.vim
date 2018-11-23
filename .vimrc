@@ -30,7 +30,7 @@ set t_Co=256
 set colorcolumn=80
 
 "set color"
-colorscheme candyman
+colorscheme Benokai
 
 "set linenumber on"
 set number

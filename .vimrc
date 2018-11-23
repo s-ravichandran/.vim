@@ -26,8 +26,11 @@ endfunction
 "support more colors"
 set t_Co=256
 
+"set colorcolumn at 80"
+set colorcolumn=80
+
 "set color"
-colorscheme Benokai
+colorscheme candyman
 
 "set linenumber on"
 set number
@@ -37,6 +40,7 @@ set smartindent
 
 "vim-airline stuff"
 set laststatus=2
+"let g:airline_theme='base16_google'"
 let g:airline_theme='murmur'
 
 "neo-complete enable"
